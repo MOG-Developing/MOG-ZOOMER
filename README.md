@@ -1,6 +1,6 @@
 # MOG-ZOOMER
 
-This is a zoomer that can zoom into something aka for the people that see bad. This tool is also useful for alot of things
+This is a zoomer that can zoom into something aka for the people that see bad. This tool is also useful for alot of things.
 
 # Requirements:
 
